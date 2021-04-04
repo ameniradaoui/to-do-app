@@ -1,0 +1,17 @@
+.NavBar .customButton {
+  border-color: #f0f0f0;
+  color: #f0f0f0;
+}
+.NavBar .customButton:hover,
+.NavBar .customButton:active {
+  background: #f0f0f0 !important;
+  color: #303a52 !important;
+  box-shadow: none !important;
+  border-color: #f0f0f0 !important;
+}
+
+.customNavbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}

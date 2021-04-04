@@ -1,0 +1,33 @@
+.formCard {
+  box-shadow: 0px 0px 4px 0px #8080805e;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+.formCard h5 {
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+}
+.formCard h5 .dash {
+  width: 93%;
+  display: inline-block;
+  border-bottom: solid 1px #ececec;
+  height: 0;
+  margin: auto;
+}
+.formCard .icons .delete {
+  color: #dd5454;
+  font-size: 22px;
+  margin-right: 10px;
+}
+.formCard .icons .edit {
+  color: #1e991e;
+  font-size: 22px;
+}
+.TodoList .tabSpan {
+  font-size: 18px;
+  color: #303a52;
+  font-weight: 500;
+  letter-spacing: -0.3px;
+}
